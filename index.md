@@ -6,3 +6,9 @@
 ###### This is a H6 Header
 
 ![Image of ISS](https://www.nasa.gov/sites/default/files/thumbnails/image/final_configuration_of_iss.jpg)
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
