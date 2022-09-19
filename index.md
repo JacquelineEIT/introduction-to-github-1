@@ -12,3 +12,9 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Commit changes to this file
